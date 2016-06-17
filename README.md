@@ -2,4 +2,5 @@
 
 BrainFuck interpreter
 
-it's is currently in alpha form and is bundled with some code I found on various websites
+There was a big bug involving the first element of the array not being cleared 
+it is now working and has incorrect file exceptions
